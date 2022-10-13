@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Kutsis</string>
+    <string name="welcome_title">KUTSİS </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="email_placeholder">Email</string>
+    <string name="password_placeholder">Şifre</string>
+    <string name="signup_btn">Kayıt Ol</string>
+    <string name="login_btn">Giriş Yap</string>
+    <string name="email_hint">EMail</string>
+    <string name="password_hint">Şifre</string>
+    <string name="login_fail">Email veya Şifre Hatalı</string>
+    <string name="login_success">Giriş Başarılı Yönlendiriliyorsunuz</string>
+    <string name="libraryPhotoDescription">Kütüphane resmi</string>
+    <string name="name_hint">İsim</string>
+    <string name="surname_hint">Soyisim</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_userdetails">User Details</string>
+    <string name="exitQuestion">Çıkış yapmak istiyor musunuz?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="Logout">Çıkış yap</string>
+    <string name="exitAppmenu">Uygulamayı Kapat</string>
+    <string name="logoutString">Oturumu sonlandırmak istiyor musunuz?</string>
+    <string name="logoutCancel">Çıkış işlemi iptal edildi</string>
+    <string name="logoutOk">Başarıyla çıkış yapılmıştır</string>
+    <string name="emailverificationtext">Kayıt işlemini tamamlamak için eposta hesabınıza gönderilen mail içerisinde yer alan doğrulama linkine tıklayınız. Mail adresinizi
+    doğruladıysanız butona tıklayınız.
+    </string>
+    <string name="emailverificationbtn">KONTROL ET</string>
+    <string name="emailverificationSendMail">MAİL GÖNDER</string>
+    <string name="resetpaswordbtn">ŞİFREMİ UNUTTUM</string>
+    <string name="selectionActivityText">Masaları görüntülemek ve rezervasyon yapmak için Kütüphane girişinde yer alan QR Kodu okutun.</string>
+    <string name="sureyiUzat">Süreyi Uzat</string>
+    <string name="masayiBirak">Masayı Bırak</string>
+    <string name="kalanSure">Kalan Süre</string>
+    <string name="registrationDate">Kayıt Tarihi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

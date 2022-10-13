@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.kutsis.app-mergeDebugResources-44:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\9ecd1a18b0f601bd05b80818d41df0d3\\transformed\\jetified-core-splashscreen-1.0.0-beta02\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "85",
+                        "endOffsets": "181"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\769dcb77fb92c9edab96c2b2c530717e\\transformed\\material-1.6.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,241,330,431,538,645,744,847,935,1059,1161,1263,1379,1481,1595,1723,1839,1961,2097,2217,2351,2471,2583,2709,2826,2950,3080,3202,3340,3474,3590",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "125,236,325,426,533,640,739,842,930,1054,1156,1258,1374,1476,1590,1718,1834,1956,2092,2212,2346,2466,2578,2704,2821,2945,3075,3197,3335,3469,3585,3705"
+                    },
+                    "to": {
+                        "startLines": "32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,57,58,59,60,61,62,63,64",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1894,1969,2080,2169,2270,2377,2484,2583,2686,2774,2898,3000,3102,3218,3320,3434,3562,3678,3800,3936,4056,4190,4310,4422,4637,4754,4878,5008,5130,5268,5402,5518",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1964,2075,2164,2265,2372,2479,2578,2681,2769,2893,2995,3097,3213,3315,3429,3557,3673,3795,3931,4051,4185,4305,4417,4543,4749,4873,5003,5125,5263,5397,5513,5633"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\bb95e16848b931445366a478e67aa931\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,56",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "186,256,340,424,520,622,724,4548",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "251,335,419,515,617,719,813,4632"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\Desktop\\kutupane01\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2,20,25",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "102,1083,1243",
+                        "endLines": "18,23,25",
+                        "endColumns": "12,12,83",
+                        "endOffsets": "1075,1235,1322"
+                    },
+                    "to": {
+                        "startLines": "10,27,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "818,1657,1811",
+                        "endLines": "26,30,31",
+                        "endColumns": "12,12,82",
+                        "endOffsets": "1652,1806,1889"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_selection.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_register.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_profile.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/element_masa.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/element_masa.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_qractivity.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_qractivity.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_sure.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_sure.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_secim.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_secim.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_emailverification.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_emailverification.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-mergeDebugResources-45:/layout/activity_resetpassword.xml",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_resetpassword.xml"
+    }
+]

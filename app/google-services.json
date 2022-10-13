@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345335058275",
+    "firebase_url": "https://kutsis-ac363-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kutsis-ac363",
+    "storage_bucket": "kutsis-ac363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345335058275:android:0f91a874b21a38517ccd56",
+        "android_client_info": {
+          "package_name": "com.zekiyeyeter.kutsis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345335058275-pgl6kcsmi4perovtdh43cah6npmham57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zekiyeyeter.kutsis",
+            "certificate_hash": "69cc0e0b9bc56f12006fae86d330eb3ef9aef0f3"
+          }
+        },
+        {
+          "client_id": "345335058275-gu0rek0eeo8qgn67d103a0kr6p1ddon2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQNhhkB69P1ZwNfVO_VW8-o-j7O8rxvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345335058275-gu0rek0eeo8qgn67d103a0kr6p1ddon2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

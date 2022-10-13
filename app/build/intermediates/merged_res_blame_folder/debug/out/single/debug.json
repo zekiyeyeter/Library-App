@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/font_comfortaa_light.ttf.flat",
+        "source": "com.example.kutsis.app-main-48:/font/comfortaa_light.ttf"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_selection_img.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/selection_img.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/menu_action_menu.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/menu/action_menu.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable-xhdpi_ic_camera_alt.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable-xhdpi/ic_camera_alt.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/font_comfortaa_bold.ttf.flat",
+        "source": "com.example.kutsis.app-main-48:/font/comfortaa_bold.ttf"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_kutsis_logo.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/kutsis_logo.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_ic_qrscanner.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/ic_qrscanner.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_secim.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_secim.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_giris_gorsel.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/giris_gorsel.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_profile.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/font_comfortaa_medium.ttf.flat",
+        "source": "com.example.kutsis.app-main-48:/font/comfortaa_medium.ttf"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_selection.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_ic_settings.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_resetpassword.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_resetpassword.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_emailverification.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_emailverification.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_ic_dashboard.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable-xxhdpi_ic_camera_alt.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable-xxhdpi/ic_camera_alt.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_ic_profile.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_qractivity.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_qractivity.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable-hdpi_ic_camera_alt.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable-hdpi/ic_camera_alt.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable-mdpi_ic_camera_alt.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable-mdpi/ic_camera_alt.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_element_masa.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/element_masa.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable-xxxhdpi_ic_camera_alt.png.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable-xxxhdpi/ic_camera_alt.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_sure.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_sure.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/drawable_ic_check.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_main.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/layout_activity_register.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/navigation_nav_view.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/navigation/nav_view.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/font_comfortaa_regular.ttf.flat",
+        "source": "com.example.kutsis.app-main-48:/font/comfortaa_regular.ttf"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/font_comfortaa.xml.flat",
+        "source": "com.example.kutsis.app-main-48:/font/comfortaa.xml"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kutsis.app-main-48:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kutsis.app-merged_res-46:/font_comfortaa_semibold.ttf.flat",
+        "source": "com.example.kutsis.app-main-48:/font/comfortaa_semibold.ttf"
+    }
+]

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="axen_red">#F03E45</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="secondary_red">#8B0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btnwidth">300dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="imgHeight">300dp</dimen>
+    <dimen name="marginLeft">20dp</dimen>
+    <dimen name="marginRight">20dp</dimen>
+    <dimen name="textWidth">300dp</dimen>
+    <string name="Logout">Çıkış yap</string>
+    <string name="app_name">Kutsis</string>
+    <string name="default_web_client_id" translatable="false">345335058275-gu0rek0eeo8qgn67d103a0kr6p1ddon2.apps.googleusercontent.com</string>
+    <string name="email_hint">EMail</string>
+    <string name="email_placeholder">Email</string>
+    <string name="emailverificationSendMail">MAİL GÖNDER</string>
+    <string name="emailverificationbtn">KONTROL ET</string>
+    <string name="emailverificationtext">Kayıt işlemini tamamlamak için eposta hesabınıza gönderilen mail içerisinde yer alan doğrulama linkine tıklayınız. Mail adresinizi
+    doğruladıysanız butona tıklayınız.
+    </string>
+    <string name="exitAppmenu">Uygulamayı Kapat</string>
+    <string name="exitQuestion">Çıkış yapmak istiyor musunuz?</string>
+    <string name="firebase_database_url" translatable="false">https://kutsis-ac363-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">345335058275</string>
+    <string name="google_api_key" translatable="false">AIzaSyBfQNhhkB69P1ZwNfVO_VW8-o-j7O8rxvA</string>
+    <string name="google_app_id" translatable="false">1:345335058275:android:0f91a874b21a38517ccd56</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBfQNhhkB69P1ZwNfVO_VW8-o-j7O8rxvA</string>
+    <string name="google_storage_bucket" translatable="false">kutsis-ac363.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kalanSure">Kalan Süre</string>
+    <string name="libraryPhotoDescription">Kütüphane resmi</string>
+    <string name="login_btn">Giriş Yap</string>
+    <string name="login_fail">Email veya Şifre Hatalı</string>
+    <string name="login_success">Giriş Başarılı Yönlendiriliyorsunuz</string>
+    <string name="logoutCancel">Çıkış işlemi iptal edildi</string>
+    <string name="logoutOk">Başarıyla çıkış yapılmıştır</string>
+    <string name="logoutString">Oturumu sonlandırmak istiyor musunuz?</string>
+    <string name="masayiBirak">Masayı Bırak</string>
+    <string name="name_hint">İsim</string>
+    <string name="no">Hayır</string>
+    <string name="password_hint">Şifre</string>
+    <string name="password_placeholder">Şifre</string>
+    <string name="project_id" translatable="false">kutsis-ac363</string>
+    <string name="registrationDate">Kayıt Tarihi</string>
+    <string name="resetpaswordbtn">ŞİFREMİ UNUTTUM</string>
+    <string name="selectionActivityText">Masaları görüntülemek ve rezervasyon yapmak için Kütüphane girişinde yer alan QR Kodu okutun.</string>
+    <string name="signup_btn">Kayıt Ol</string>
+    <string name="sureyiUzat">Süreyi Uzat</string>
+    <string name="surname_hint">Soyisim</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_userdetails">User Details</string>
+    <string name="welcome_title">KUTSİS </string>
+    <string name="yes">Evet</string>
+    <style name="AppTheme.Launcher" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/axen_red</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/kutsis_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Kutsis.NoActionBar</item>
+    </style>
+    <style name="Theme.Kutsis" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/axen_red</item>
+        <item name="colorPrimaryVariant">@color/secondary_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/transparent</item>
+        
+        <item name="android:textColor">@color/black</item>
+        <item name="hintTextColor">@color/black</item>
+        <item name="android:textColorHighlight">@color/axen_red</item>
+        <item name="android:textColorLink">@color/axen_red</item>
+    </style>
+    <style name="Theme.Kutsis.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Kutsis.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="customTextLight">
+        <item name="android:fontFamily">@font/comfortaa</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+</resources>
